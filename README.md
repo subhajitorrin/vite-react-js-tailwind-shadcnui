@@ -1,1 +1,1 @@
-# vote-react-js-tailwind-shadcnui
+# vite-react-js-tailwind-shadcnui
